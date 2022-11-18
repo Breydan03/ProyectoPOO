@@ -1,0 +1,11 @@
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\bin\Debug\Covid-19.exe.config
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\bin\Debug\Covid-19.exe
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\bin\Debug\Covid-19.pdb
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\obj\Debug\Covid-19.csproj.AssemblyReference.cache
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\obj\Debug\Covid-19.csproj.SuggestedBindingRedirects.cache
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\obj\Debug\Covid_19.FrmCovid19.resources
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\obj\Debug\Covid_19.Properties.Resources.resources
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\obj\Debug\Covid-19.csproj.GenerateResource.cache
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\obj\Debug\Covid-19.csproj.CoreCompileInputs.cache
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\obj\Debug\Covid-19.exe
+C:\Users\sala\Documents\Proyectos VisualStudio2019\Covid-19\Covid-19\obj\Debug\Covid-19.pdb
