@@ -75,6 +75,7 @@
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.lblNombre = new System.Windows.Forms.Label();
             this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.ckDespertarse = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pickCovid19)).BeginInit();
             this.tabPage1.SuspendLayout();
             this.gbSintomas.SuspendLayout();
@@ -171,6 +172,7 @@
             // 
             // gbSintomas
             // 
+            this.gbSintomas.Controls.Add(this.ckDespertarse);
             this.gbSintomas.Controls.Add(this.btnDianostico);
             this.gbSintomas.Controls.Add(this.btnResumir);
             this.gbSintomas.Controls.Add(this.chkIncapacidad);
@@ -598,6 +600,18 @@
             this.tabControl1.Size = new System.Drawing.Size(1175, 520);
             this.tabControl1.TabIndex = 7;
             // 
+            // ckDespertarse
+            // 
+            this.ckDespertarse.AutoSize = true;
+            this.ckDespertarse.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ckDespertarse.Location = new System.Drawing.Point(163, 219);
+            this.ckDespertarse.Name = "ckDespertarse";
+            this.ckDespertarse.Size = new System.Drawing.Size(392, 20);
+            this.ckDespertarse.TabIndex = 33;
+            this.ckDespertarse.Text = "Incapacidad de despertarse o permanecer despierto";
+            this.ckDespertarse.UseVisualStyleBackColor = true;
+            this.ckDespertarse.CheckedChanged += new System.EventHandler(this.ckDespertarse_CheckedChanged);
+            // 
             // FrmCovid19
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -678,6 +692,7 @@
         private System.Windows.Forms.CheckBox chkIncapacidad;
         private System.Windows.Forms.CheckBox chkDolorPecho;
         private System.Windows.Forms.CheckBox chkRespiracion;
+        private System.Windows.Forms.CheckBox ckDespertarse;
     }
 }
 

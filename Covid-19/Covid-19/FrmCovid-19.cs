@@ -177,5 +177,9 @@ namespace Covid_19
             l.limpiarControles(gbSintomas);
         }
 
+        private void ckDespertarse_CheckedChanged(object sender, EventArgs e)
+        {
+            //Código añadido de prueba
+        }
     }
 }
