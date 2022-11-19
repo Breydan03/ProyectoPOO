@@ -180,6 +180,7 @@ namespace Covid_19
         private void ckDespertarse_CheckedChanged(object sender, EventArgs e)
         {
             //Código añadido de prueba
+            //Código de prueba #2
         }
     }
 }
