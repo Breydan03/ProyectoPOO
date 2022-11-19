@@ -340,7 +340,7 @@
             // 
             // txtNacionalidad
             // 
-            this.txtNacionalidad.BackColor = System.Drawing.Color.Gold;
+            this.txtNacionalidad.BackColor = System.Drawing.Color.LightGreen;
             this.txtNacionalidad.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtNacionalidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNacionalidad.Location = new System.Drawing.Point(164, 433);
@@ -350,7 +350,7 @@
             // 
             // txtEstadoCivil
             // 
-            this.txtEstadoCivil.BackColor = System.Drawing.Color.Gold;
+            this.txtEstadoCivil.BackColor = System.Drawing.Color.LightGreen;
             this.txtEstadoCivil.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtEstadoCivil.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEstadoCivil.Location = new System.Drawing.Point(164, 398);
@@ -398,7 +398,7 @@
             // 
             // txtCorreo
             // 
-            this.txtCorreo.BackColor = System.Drawing.Color.Gold;
+            this.txtCorreo.BackColor = System.Drawing.Color.LightGreen;
             this.txtCorreo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtCorreo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCorreo.Location = new System.Drawing.Point(164, 322);
@@ -452,7 +452,7 @@
             // 
             // txtDireccion
             // 
-            this.txtDireccion.BackColor = System.Drawing.Color.Gold;
+            this.txtDireccion.BackColor = System.Drawing.Color.LightGreen;
             this.txtDireccion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtDireccion.Location = new System.Drawing.Point(164, 222);
             this.txtDireccion.Multiline = true;
@@ -482,7 +482,7 @@
             // 
             // cbNivelAcademico
             // 
-            this.cbNivelAcademico.BackColor = System.Drawing.Color.Gold;
+            this.cbNivelAcademico.BackColor = System.Drawing.Color.LightGreen;
             this.cbNivelAcademico.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbNivelAcademico.FormattingEnabled = true;
             this.cbNivelAcademico.Items.AddRange(new object[] {
@@ -501,7 +501,7 @@
             // 
             // cbProvincias
             // 
-            this.cbProvincias.BackColor = System.Drawing.Color.Gold;
+            this.cbProvincias.BackColor = System.Drawing.Color.LightGreen;
             this.cbProvincias.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbProvincias.FormattingEnabled = true;
             this.cbProvincias.Items.AddRange(new object[] {
@@ -530,7 +530,7 @@
             // 
             // txtSegundoApellido
             // 
-            this.txtSegundoApellido.BackColor = System.Drawing.Color.Gold;
+            this.txtSegundoApellido.BackColor = System.Drawing.Color.LightGreen;
             this.txtSegundoApellido.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtSegundoApellido.ForeColor = System.Drawing.SystemColors.WindowText;
             this.txtSegundoApellido.Location = new System.Drawing.Point(164, 100);
@@ -550,7 +550,7 @@
             // 
             // txtPrimerApellido
             // 
-            this.txtPrimerApellido.BackColor = System.Drawing.Color.Gold;
+            this.txtPrimerApellido.BackColor = System.Drawing.Color.LightGreen;
             this.txtPrimerApellido.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtPrimerApellido.ForeColor = System.Drawing.SystemColors.WindowText;
             this.txtPrimerApellido.Location = new System.Drawing.Point(164, 63);
@@ -570,7 +570,7 @@
             // 
             // txtNombre
             // 
-            this.txtNombre.BackColor = System.Drawing.Color.Gold;
+            this.txtNombre.BackColor = System.Drawing.Color.LightGreen;
             this.txtNombre.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNombre.Location = new System.Drawing.Point(164, 28);
@@ -602,7 +602,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.ClientSize = new System.Drawing.Size(1200, 692);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.btnCerrarA);
